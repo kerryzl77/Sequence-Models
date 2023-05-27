@@ -1,1 +1,1 @@
-# Sequence-Models - Completed Version
+# Deep-Learning-Specialization - Sequence-Models - Completed Version
